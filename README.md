@@ -74,3 +74,5 @@ License plate recognition (OCR)
 Real-time camera streaming
 Web dashboard for monitoring
 Cloud deployment
+<img width="1408" height="768" alt="Gemini_Generated_Image_qjo9ilqjo9ilqjo9" src="https://github.com/user-attachments/assets/1d018945-2fda-45b6-810e-6fccd4fde6ab" />
+
